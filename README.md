@@ -1,1 +1,1 @@
-This is a clone of YouTube's frontend in Next.js
+This is a clone of YouTube's frontend using Typescript.
